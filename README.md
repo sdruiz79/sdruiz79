@@ -2,7 +2,7 @@
 - 👀 I’m interested in learnign about everthing to do with Data Analytics
 - 🌱 I’m currently learning VBA and python
 - 💞️ I’m looking to collaborate on anythign and everything
-- 📫 How to reach me sdruix79@gmail.com
+- 📫 How to reach me sdruiz79@gmail.com
 
 <!---
 sdruiz79/sdruiz79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
