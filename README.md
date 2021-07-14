@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdruiz79
-- 👀 I’m interested in learnign about everthing to do with Data Analytics
-- 🌱 I’m currently learning VBA and python
+- 👀 I’m interested in learning about everthing to do with Data Analytics
+- 🌱 I’m currently learning VBA and Python
 - 💞️ I’m looking to collaborate on anythign and everything
 - 📫 How to reach me sdruiz79@gmail.com
 
